@@ -2,7 +2,7 @@
 
 ### Dev Setup / Requirements
 
- [ ] Setup a computer with fresh [Peppermint Linux][peppermintos.com]
+ [ ] Setup a computer with fresh [Peppermint Linux](https://www.peppermintos.com)
 
- [ ] Install an open source CCTV software. . . / [Zoneminder][http://www.zoneminder.com/downloads/]
+ [ ] Install an open source CCTV software. . . / [Zoneminder](https://www.zoneminder.com/downloads/)
 
